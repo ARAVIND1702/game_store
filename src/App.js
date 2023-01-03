@@ -52,7 +52,7 @@ function App() {
           <input type="button" className='view' value="View More >"></input>
         </td>
         <td>
-          <Pic3/>
+          {/* <Pic3/> */}
           <h1 style={{float:"left",paddingLeft:"90px",color:"rgb(16 124 16)"}}>Xbox</h1>
           <p className='foot' style={{color:"rgb(139 255 139)"}}>'logo' is defined but never used no-unused-vars Line 18:12:  img elements must have an alt prop, either with meaningful text, or an empty string for decorative images</p>
           <input type="button" className='view' value="View More >"></input>
