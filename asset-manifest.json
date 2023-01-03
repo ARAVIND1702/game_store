@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/game_store/static/css/main.d23fae75.css",
+    "main.js": "/game_store/static/js/main.f3882fd0.js",
+    "static/js/787.bc9c0800.chunk.js": "/game_store/static/js/787.bc9c0800.chunk.js",
+    "static/media/gtavid.mp4": "/game_store/static/media/gtavid.7d7a6eaa51b352ea80ac.mp4",
+    "static/media/franklin.png": "/game_store/static/media/franklin.d9c1ab60e4db0ae3265d.png",
+    "static/media/pngegg.png": "/game_store/static/media/pngegg.9c3cb46c5371282dce0c.png",
+    "static/media/gta.png": "/game_store/static/media/gta.0fed47d49aeddd5d8083.png",
+    "static/media/logo.svg": "/game_store/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/game_store/index.html",
+    "main.d23fae75.css.map": "/game_store/static/css/main.d23fae75.css.map",
+    "main.f3882fd0.js.map": "/game_store/static/js/main.f3882fd0.js.map",
+    "787.bc9c0800.chunk.js.map": "/game_store/static/js/787.bc9c0800.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d23fae75.css",
+    "static/js/main.f3882fd0.js"
+  ]
+}
